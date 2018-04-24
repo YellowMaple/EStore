@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EStore.iml" filepath="$PROJECT_DIR$/EStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-annotations/lib-annotations.iml" filepath="$PROJECT_DIR$/lib-annotations/lib-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-compiler/lib-compiler.iml" filepath="$PROJECT_DIR$/lib-compiler/lib-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-core/lib-core.iml" filepath="$PROJECT_DIR$/lib-core/lib-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myec/myec.iml" filepath="$PROJECT_DIR$/myec/myec.iml" />
+    </modules>
+  </component>
+</project>
